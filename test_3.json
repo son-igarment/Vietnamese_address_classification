@@ -1,0 +1,1091 @@
+[
+  {
+    "text": "Thôn Aréh Đhrồng Tà Lu, Đông Giang, Quảng Nam",
+    "result": {
+      "province": "Quảng Nam",
+      "province_normalized": "Quảng Nam",
+      "district": "Đông Giang",
+      "district_normalized": "Đông Giang",
+      "ward": "Tà Lu",
+      "ward_normalized": "Tà Lu"
+    }
+  },
+  {
+    "text": "Xã Hùng Sơn Huyện Tĩnh Gia, Thanh Hoá",
+    "result": {
+      "province": "",
+      "province_normalized": "",
+      "district": "Tĩnh Gia",
+      "district_normalized": "Tĩnh Gia",
+      "ward": "",
+      "ward_normalized": ""
+    }
+  },
+  {
+    "text": "119 Hải Phòng, thành phố Đà Nẵng",
+    "result": {
+      "province": "Đà Nẵng",
+      "province_normalized": "Đà Nẵng",
+      "district": "",
+      "district_normalized": "",
+      "ward": "",
+      "ward_normalized": ""
+    }
+  },
+  {
+    "text": "Võ Ninh, Quảng Ninh Quảng Bình",
+    "result": {
+      "province": "Quảng Bình",
+      "province_normalized": "Quảng Bình",
+      "district": "Quảng Ninh",
+      "district_normalized": "Quảng Ninh",
+      "ward": "Võ Ninh",
+      "ward_normalized": "Võ Ninh"
+    }
+  },
+  {
+    "text": "Số 106, Tổ 5, Thôn Xuân Phong, Xã Vĩnh Phương, Thành phố Nha Trang, Khánh Hòa",
+    "result": {
+      "province": "",
+      "province_normalized": "",
+      "district": "Nha Trang",
+      "district_normalized": "Nha Trang",
+      "ward": "",
+      "ward_normalized": ""
+    }
+  },
+  {
+    "text": "Xã Đắk N'Drung Huyện Đắk Song, Đắk Nông",
+    "result": {
+      "province": "Đắk Nông",
+      "province_normalized": "Đắk Nông",
+      "district": "",
+      "district_normalized": "",
+      "ward": "Đắk N'Dung",
+      "ward_normalized": "Đắk N'Dung"
+    }
+  },
+  {
+    "text": "Ngãi Hòa Hòa Bình, Trà Ôn, Vĩnh Long",
+    "result": {
+      "province": "Vĩnh Long",
+      "province_normalized": "Vĩnh Long",
+      "district": "",
+      "district_normalized": "",
+      "ward": "Hòa Bình",
+      "ward_normalized": "hòa bình"
+    }
+  },
+  {
+    "text": "Tổ 1, Tân Lập, Phương Đông Uông Bí, Quảng Ninh",
+    "result": {
+      "province": "",
+      "province_normalized": "",
+      "district": "Uông Bí",
+      "district_normalized": "Uông Bí",
+      "ward": "",
+      "ward_normalized": ""
+    }
+  },
+  {
+    "text": "Số 138 Nguyễn Ngọc Nại, Phường Khương Mai, Thanh Xuân, Hà Nội.",
+    "result": {
+      "province": "Hà Nội",
+      "province_normalized": "Hà Nội",
+      "district": "",
+      "district_normalized": "",
+      "ward": "Khương Mai",
+      "ward_normalized": "Khương Mai"
+    }
+  },
+  {
+    "text": "107 Quang Trung Nam định-T.nam định",
+    "result": {
+      "province": "Nam Định",
+      "province_normalized": "Nam Định",
+      "district": "Nam Định",
+      "district_normalized": "Nam Định",
+      "ward": "Quang Trung",
+      "ward_normalized": "Quang Trung"
+    }
+  },
+  {
+    "text": "16 Ngách 1/46 Bùi Xương Trạch Khương Đình, Thanh Xuân, Hà Nội",
+    "result": {
+      "province": "Hà Nội",
+      "province_normalized": "Hà Nội",
+      "district": "",
+      "district_normalized": "",
+      "ward": "Khương Đình",
+      "ward_normalized": "Khương Đình"
+    }
+  },
+  {
+    "text": "Nghĩa Dõng TP. Quảng Ngãi, Quảng Ngãi",
+    "result": {
+      "province": "",
+      "province_normalized": "",
+      "district": "Quảng Ngãi",
+      "district_normalized": "Quảng Ngãi",
+      "ward": "Nghĩa Dõng",
+      "ward_normalized": "Nghĩa Dõng"
+    }
+  },
+  {
+    "text": "Ấp Ninh Bình, Tân Bình, Càng Long, Trà Vinh",
+    "result": {
+      "province": "Trà Vinh",
+      "province_normalized": "Trà Vinh",
+      "district": "",
+      "district_normalized": "",
+      "ward": "",
+      "ward_normalized": ""
+    }
+  },
+  {
+    "text": "Xuân Lộc Trung Thành, Vũng Liêm, Vĩnh Long",
+    "result": {
+      "province": "Vĩnh Long",
+      "province_normalized": "Vĩnh Long",
+      "district": "Vũng Liêm",
+      "district_normalized": "Vũng Liêm",
+      "ward": "",
+      "ward_normalized": ""
+    }
+  },
+  {
+    "text": "Quang Khải, Tứ Kỳ Hải Dương",
+    "result": {
+      "province": "Hải Dương",
+      "province_normalized": "Hải Dương",
+      "district": "",
+      "district_normalized": "",
+      "ward": "Quang Khải",
+      "ward_normalized": "Quang Khải"
+    }
+  },
+  {
+    "text": "Triệu Trạch, Triệu Phong, Quảng Trị.",
+    "result": {
+      "province": "",
+      "province_normalized": "",
+      "district": "",
+      "district_normalized": "",
+      "ward": "",
+      "ward_normalized": ""
+    }
+  },
+  {
+    "text": "A71,Khóm 3 Phường 9, TP. Vĩnh Long, Vĩnh Long",
+    "result": {
+      "province": "Vĩnh Long",
+      "province_normalized": "Vĩnh Long",
+      "district": "",
+      "district_normalized": "",
+      "ward": 9,
+      "ward_normalized": 9
+    }
+  },
+  {
+    "text": "Bắc Lương, Thọ Xuân Thanh Hóa",
+    "result": {
+      "province": "",
+      "province_normalized": "",
+      "district": "",
+      "district_normalized": "",
+      "ward": "Bắc Lương",
+      "ward_normalized": "Bắc Lương"
+    }
+  },
+  {
+    "text": "Voi Lá, TT Bến Lúc, Bến Lức, Long An",
+    "result": {
+      "province": "Long An",
+      "province_normalized": "Long An",
+      "district": "",
+      "district_normalized": "",
+      "ward": "",
+      "ward_normalized": ""
+    }
+  },
+  {
+    "text": "Ấp Bùng Binh, Hưng Thuận, Trảng Bàng, Tây Ninh",
+    "result": {
+      "province": "Tây Ninh",
+      "province_normalized": "Tây Ninh",
+      "district": "",
+      "district_normalized": "",
+      "ward": "",
+      "ward_normalized": ""
+    }
+  },
+  {
+    "text": "Tổ 3, Khu 4 Việt Hưng, Thành phố Hạ Long, Quảng Ninh",
+    "result": {
+      "province": "",
+      "province_normalized": "",
+      "district": "Hạ Long",
+      "district_normalized": "Hạ Long",
+      "ward": "",
+      "ward_normalized": ""
+    }
+  },
+  {
+    "text": "Tổ 9 Đoàn Kết, Thành phố Lai Châu, Lai Châu",
+    "result": {
+      "province": "Lai Châu",
+      "province_normalized": "Lai Châu",
+      "district": "Lai Châu",
+      "district_normalized": "Lai Châu",
+      "ward": "Đoàn Kết",
+      "ward_normalized": "Đoàn Kết"
+    }
+  },
+  {
+    "text": "Số 24 Ngõ 72 Phường Khương Trung, Quận Thanh Xuân, Hà Nội.",
+    "result": {
+      "province": "Hà Nội",
+      "province_normalized": "Hà Nội",
+      "district": "",
+      "district_normalized": "",
+      "ward": "Khương Trung",
+      "ward_normalized": "Khương Trung"
+    }
+  },
+  {
+    "text": "Tịnh ấn Tây, Thành phố Quảng Ngãi, Quảng Ngãi.",
+    "result": {
+      "province": "",
+      "province_normalized": "",
+      "district": "Quảng Ngãi",
+      "district_normalized": "Quảng Ngãi",
+      "ward": "Tịnh Ấn Tây",
+      "ward_normalized": "tịnh ấn tây"
+    }
+  },
+  {
+    "text": "Ấp Bàu Bền Thạnh Bắc, Tân Biên, Tây Ninh",
+    "result": {
+      "province": "Tây Ninh",
+      "province_normalized": "Tây Ninh",
+      "district": "Tân Biên",
+      "district_normalized": "Tân Biên",
+      "ward": "Thạnh Bắc",
+      "ward_normalized": "Thạnh Bắc"
+    }
+  },
+  {
+    "text": "Đông Phú, Đông Sơn Thanh Hóa",
+    "result": {
+      "province": "",
+      "province_normalized": "",
+      "district": "Đông Sơn",
+      "district_normalized": "Đông Sơn",
+      "ward": "Đông Phú",
+      "ward_normalized": "Đông Phú"
+    }
+  },
+  {
+    "text": "Xóm Đình, Thanh Thủy Đông Xuân, Sóc Sơn, Hà Nội",
+    "result": {
+      "province": "Hà Nội",
+      "province_normalized": "Hà Nội",
+      "district": "",
+      "district_normalized": "",
+      "ward": "Đông Xuân",
+      "ward_normalized": "Đông Xuân"
+    }
+  },
+  {
+    "text": "107 Lê Sao Phú Thạnh, Tân Phú, TP. Hồ Chí Minh.",
+    "result": {
+      "province": "Hồ Chí Minh",
+      "province_normalized": "Hồ Chí Minh",
+      "district": "",
+      "district_normalized": "",
+      "ward": "Phú Thạnh",
+      "ward_normalized": "Phú Thạnh"
+    }
+  },
+  {
+    "text": "Tổ 22, Bàu Mây, An Tịnh, Trảng Bàng, Tây Ninh.",
+    "result": {
+      "province": "Tây Ninh",
+      "province_normalized": "Tây Ninh",
+      "district": "",
+      "district_normalized": "",
+      "ward": "An Tịnh",
+      "ward_normalized": "An Tịnh"
+    }
+  },
+  {
+    "text": "Tổ 1, Khu Phố 14, Phú Thủy, Phan Thiết, Bình Thuận",
+    "result": {
+      "province": "Bình Thuận",
+      "province_normalized": "Bình Thuận",
+      "district": "",
+      "district_normalized": "",
+      "ward": "",
+      "ward_normalized": ""
+    }
+  },
+  {
+    "text": "165/32/14A Đường 3/2, P.11, Q.10, TP. Hồ Chí Minh",
+    "result": {
+      "province": "Hồ Chí Minh",
+      "province_normalized": "Hồ Chí Minh",
+      "district": 10,
+      "district_normalized": 10,
+      "ward": 11,
+      "ward_normalized": 11
+    }
+  },
+  {
+    "text": "Ấp 3, Xã Phú An, Huyện Tân Phú, Đồng Nai",
+    "result": {
+      "province": "Đồng Nai",
+      "province_normalized": "Đồng Nai",
+      "district": "",
+      "district_normalized": "",
+      "ward": "Phú An",
+      "ward_normalized": "Phú An"
+    }
+  },
+  {
+    "text": "Phú Thạnh B, Phú Thuận A, Hồng Ngự, ĐT.",
+    "result": {
+      "province": "Đồng Tháp",
+      "province_normalized": "Đồng Tháp",
+      "district": "Hồng Ngự",
+      "district_normalized": "Hồng Ngự",
+      "ward": "Phú Thuận A",
+      "ward_normalized": "Phú Thuận A"
+    }
+  },
+  {
+    "text": "1/28A Đồng Tranh X. Long Hòa, H. Cần Giờ, TP. Hồ Chí Minh",
+    "result": {
+      "province": "Hồ Chí Minh",
+      "province_normalized": "Hồ Chí Minh",
+      "district": "Cần Giờ",
+      "district_normalized": "Cần Giờ",
+      "ward": "",
+      "ward_normalized": ""
+    }
+  },
+  {
+    "text": "Xã Yên Sơn, Huyện Lục Nam, Tỉnh Bắc Giang",
+    "result": {
+      "province": "Bắc Giang",
+      "province_normalized": "Bắc Giang",
+      "district": "Lục Nam",
+      "district_normalized": "Lục Nam",
+      "ward": "Yên Sơn",
+      "ward_normalized": "Yên Sơn"
+    }
+  },
+  {
+    "text": "Nhà 404A, Lô A3x3, Chung cư K26, Dương Quảng Hàm, Phường 7, Gò Vấp, TP. Hồ Chí Minh.",
+    "result": {
+      "province": "Hồ Chí Minh",
+      "province_normalized": "Hồ Chí Minh",
+      "district": "Gò Vấp",
+      "district_normalized": "Gò Vấp",
+      "ward": 7,
+      "ward_normalized": 7
+    }
+  },
+  {
+    "text": "52 Bùi Thị Xuân Phường 02, Tân Bình, TP.Hồ Chí Minh",
+    "result": {
+      "province": "Hồ Chí Minh",
+      "province_normalized": "Hồ Chí Minh",
+      "district": "Tân Bình",
+      "district_normalized": "Tân Bình",
+      "ward": "",
+      "ward_normalized": ""
+    }
+  },
+  {
+    "text": "Yến vỹ, Hương Sơn, Mỹ Đức Hà Nội",
+    "result": {
+      "province": "Hà Nội",
+      "province_normalized": "Hà Nội",
+      "district": "Mỹ Đức",
+      "district_normalized": "Mỹ Đức",
+      "ward": "Hương Sơn",
+      "ward_normalized": "Hương Sơn"
+    }
+  },
+  {
+    "text": "Thôn Liễu Nội, Khánh Hà Thường Tín, Hà Nội",
+    "result": {
+      "province": "Hà Nội",
+      "province_normalized": "Hà Nội",
+      "district": "Thường Tín",
+      "district_normalized": "Thường Tín",
+      "ward": "Khánh Hà",
+      "ward_normalized": "Khánh Hà"
+    }
+  },
+  {
+    "text": "ấp Tân Thuận, xã Đông Phước A, huyện Châu Thành, tỉnh Hậu Giang",
+    "result": {
+      "province": "Hậu Giang",
+      "province_normalized": "Hậu Giang",
+      "district": "Châu Thành",
+      "district_normalized": "Châu Thành",
+      "ward": "Đông Phước A",
+      "ward_normalized": "Đông Phước A"
+    }
+  },
+  {
+    "text": "Vạn Phúc, Ninh Giang Hải Dương",
+    "result": {
+      "province": "Hải Dương",
+      "province_normalized": "Hải Dương",
+      "district": "",
+      "district_normalized": "",
+      "ward": "Vạn Phúc",
+      "ward_normalized": "Vạn Phúc"
+    }
+  },
+  {
+    "text": "248/52 Hoàng Hoa Thám Phường 5, Bình Thạnh, TP. Hồ Chí Minh",
+    "result": {
+      "province": "Hồ Chí Minh",
+      "province_normalized": "Hồ Chí Minh",
+      "district": "Bình Thạnh",
+      "district_normalized": "Bình Thạnh",
+      "ward": "",
+      "ward_normalized": ""
+    }
+  },
+  {
+    "text": "111/12 Đường 16, Khu phố 3 Hiệp Bình Chánh, Thủ Đức, TP. Hồ Chí Minh",
+    "result": {
+      "province": "Hồ Chí Minh",
+      "province_normalized": "Hồ Chí Minh",
+      "district": "Thủ Đức",
+      "district_normalized": "Thủ Đức",
+      "ward": "Hiệp Bình Chánh",
+      "ward_normalized": "Hiệp Bình Chánh"
+    }
+  },
+  {
+    "text": "Nhơn Thọ An Nhơn, Bình Định",
+    "result": {
+      "province": "Bình Định",
+      "province_normalized": "Bình Định",
+      "district": "An Nhơn",
+      "district_normalized": "An Nhơn",
+      "ward": "Nhơn Thọ",
+      "ward_normalized": "Nhơn Thọ"
+    }
+  },
+  {
+    "text": "Xã Quảng Châu, Thành phố Hưng Yên, tỉnh Hưng Yên",
+    "result": {
+      "province": "",
+      "province_normalized": "",
+      "district": "Hưng Yên",
+      "district_normalized": "Hưng Yên",
+      "ward": "Quảng Châu",
+      "ward_normalized": "Quảng Châu"
+    }
+  },
+  {
+    "text": "129H Nguyễn Đình Chính, phường 8, quận Phú Nhuận, thành phố Hồ Chí Minh.",
+    "result": {
+      "province": "Hồ Chí Minh",
+      "province_normalized": "Hồ Chí Minh",
+      "district": "",
+      "district_normalized": "",
+      "ward": 8,
+      "ward_normalized": 8
+    }
+  },
+  {
+    "text": "531/67/16 Ng ẢnhThủ, Kp4 Hiệp Thành, Quận 12, TP. Hồ Chí Minh",
+    "result": {
+      "province": "Hồ Chí Minh",
+      "province_normalized": "Hồ Chí Minh",
+      "district": 12,
+      "district_normalized": 12,
+      "ward": "",
+      "ward_normalized": ""
+    }
+  },
+  {
+    "text": "Xã Tân Kiên, Huyện Bình Chánh, Thành phố Hồ Chí Minh",
+    "result": {
+      "province": "Hồ Chí Minh",
+      "province_normalized": "Hồ Chí Minh",
+      "district": "Bình Chánh",
+      "district_normalized": "Bình Chánh",
+      "ward": "Tân Kiên",
+      "ward_normalized": "Tân Kiên"
+    }
+  },
+  {
+    "text": "Xã Thăng Hưng Huyện Chư Prông, Gia Lai",
+    "result": {
+      "province": "Gia Lai",
+      "province_normalized": "Gia Lai",
+      "district": "Chư Prông",
+      "district_normalized": "Chư Prông",
+      "ward": "Thăng Hưng",
+      "ward_normalized": "Thăng Hưng"
+    }
+  },
+  {
+    "text": "Gia Huỳnh Gia Lộc, Trảng Bàng, Tây Ninh",
+    "result": {
+      "province": "Tây Ninh",
+      "province_normalized": "Tây Ninh",
+      "district": "",
+      "district_normalized": "",
+      "ward": "Gia Lộc",
+      "ward_normalized": "Gia Lộc"
+    }
+  },
+  {
+    "text": "Thị trấn Xuân Mai, Chương Mỹ, Hà Nội.",
+    "result": {
+      "province": "Hà Nội",
+      "province_normalized": "Hà Nội",
+      "district": "Chương Mỹ",
+      "district_normalized": "Chương Mỹ",
+      "ward": "Xuân Mai",
+      "ward_normalized": "Xuân Mai"
+    }
+  },
+  {
+    "text": "Xã Tây Kỳ, Huyện Tứ Kỳ, Tỉnh Hải Dương",
+    "result": {
+      "province": "Hải Dương",
+      "province_normalized": "Hải Dương",
+      "district": "",
+      "district_normalized": "",
+      "ward": "",
+      "ward_normalized": ""
+    }
+  },
+  {
+    "text": "Xã Thịnh Sơn H., Đô dương T. Nghệ An",
+    "result": {
+      "province": "Nghệ An",
+      "province_normalized": "Nghệ An",
+      "district": "Đô Lương",
+      "district_normalized": "Đô Lương",
+      "ward": "",
+      "ward_normalized": ""
+    }
+  },
+  {
+    "text": "Khóm 1 TT. Lai Vung, Lai Vung, Đồng Tháp",
+    "result": {
+      "province": "Đồng Tháp",
+      "province_normalized": "Đồng Tháp",
+      "district": "Lai Vung",
+      "district_normalized": "Lai Vung",
+      "ward": "Lai Vung",
+      "ward_normalized": "Lai Vung"
+    }
+  },
+  {
+    "text": "Yên Phong, Yên Định Thanh Hóa",
+    "result": {
+      "province": "",
+      "province_normalized": "",
+      "district": "",
+      "district_normalized": "",
+      "ward": "Yên Phong",
+      "ward_normalized": "Yên Phong"
+    }
+  },
+  {
+    "text": "Xóm 8, Thạch Thán, Quốc Oai Hà Nội",
+    "result": {
+      "province": "Hà Nội",
+      "province_normalized": "Hà Nội",
+      "district": "Quốc Oai",
+      "district_normalized": "Quốc Oai",
+      "ward": "Thạch Thán",
+      "ward_normalized": "Thạch Thán"
+    }
+  },
+  {
+    "text": "Tân Lập Tân Thành, Bình Tân, Vĩnh Long",
+    "result": {
+      "province": "Vĩnh Long",
+      "province_normalized": "Vĩnh Long",
+      "district": "Bình Tân",
+      "district_normalized": "Bình Tân",
+      "ward": "Tân Thành",
+      "ward_normalized": "Tân Thành"
+    }
+  },
+  {
+    "text": "Số 76 Nguyễn Biểu B, Vĩnh Hải, Nha Trang, Khánh Hòa",
+    "result": {
+      "province": "",
+      "province_normalized": "",
+      "district": "Nha Trang",
+      "district_normalized": "Nha Trang",
+      "ward": "Vĩnh Hải",
+      "ward_normalized": "Vĩnh Hải"
+    }
+  },
+  {
+    "text": "Xã Cấp Tiến Huyện Sơn Dương, Tuyên Quang",
+    "result": {
+      "province": "Tuyên Quang",
+      "province_normalized": "Tuyên Quang",
+      "district": "",
+      "district_normalized": "",
+      "ward": "Cấp Tiến",
+      "ward_normalized": "Cấp Tiến"
+    }
+  },
+  {
+    "text": "An vinh Quỳnh phụ, Thái bình",
+    "result": {
+      "province": "Thái Bình",
+      "province_normalized": "Thái Bình",
+      "district": "Quỳnh Phụ",
+      "district_normalized": "Quỳnh Phụ",
+      "ward": "An Vinh",
+      "ward_normalized": "An Vinh"
+    }
+  },
+  {
+    "text": "Điềm Tịnh Ninh Phụng, Ninh Hòa, Khánh Hoà",
+    "result": {
+      "province": "",
+      "province_normalized": "",
+      "district": "",
+      "district_normalized": "",
+      "ward": "Ninh Phụng",
+      "ward_normalized": "Ninh Phụng"
+    }
+  },
+  {
+    "text": "Ngọc Lĩnh Tĩnh Gia, Thanh Hoá",
+    "result": {
+      "province": "",
+      "province_normalized": "",
+      "district": "Tĩnh Gia",
+      "district_normalized": "Tĩnh Gia",
+      "ward": "Ngọc Lĩnh",
+      "ward_normalized": "Ngọc Lĩnh"
+    }
+  },
+  {
+    "text": "Thôn 1, Bình Đào, Thăng Bình, Quảng Nam",
+    "result": {
+      "province": "Quảng Nam",
+      "province_normalized": "Quảng Nam",
+      "district": "Thăng Bình",
+      "district_normalized": "Thăng Bình",
+      "ward": "Bình Đào",
+      "ward_normalized": "Bình Đào"
+    }
+  },
+  {
+    "text": "53/181/10/41 Đường số 4 BH Hòa B, Bình Tân, TP. Hồ Chí Minh",
+    "result": {
+      "province": "Hồ Chí Minh",
+      "province_normalized": "Hồ Chí Minh",
+      "district": "Bình Tân",
+      "district_normalized": "Bình Tân",
+      "ward": "Bình Hưng Hoà B",
+      "ward_normalized": "Bình Hưng Hoà B"
+    }
+  },
+  {
+    "text": "BìnhLong,Song Bình, Chợ Gạo,Tiền Giang.",
+    "result": {
+      "province": "Tiền Giang",
+      "province_normalized": "Tiền Giang",
+      "district": "Chợ Gạo",
+      "district_normalized": "Chợ Gạo",
+      "ward": "Song Bình",
+      "ward_normalized": "Song Bình"
+    }
+  },
+  {
+    "text": "35 Thoại Ngọc Hầu, P.Hòa Thạnh, Tân Phú, TP. Hồ Chí Minh",
+    "result": {
+      "province": "Hồ Chí Minh",
+      "province_normalized": "Hồ Chí Minh",
+      "district": "",
+      "district_normalized": "",
+      "ward": "Hòa Thạnh",
+      "ward_normalized": "Hòa Thạnh"
+    }
+  },
+  {
+    "text": "Khu phố 4, Phường Trảng Dài, Thành phố Biên Hòa, tỉnh Đồng Na.",
+    "result": {
+      "province": "Đồng Nai",
+      "province_normalized": "Đồng Nai",
+      "district": "Biên Hòa",
+      "district_normalized": "Biên Hòa",
+      "ward": "Trảng Dài",
+      "ward_normalized": "Trảng Dài"
+    }
+  },
+  {
+    "text": "KV4 P.Lê Hồng- Phong, TP.Quy Nhơn, Bình Định",
+    "result": {
+      "province": "Bình Định",
+      "province_normalized": "Bình Định",
+      "district": "Quy Nhơn",
+      "district_normalized": "quy nhơn",
+      "ward": "Lê Hồng Phong",
+      "ward_normalized": "Lê Hồng Phong"
+    }
+  },
+  {
+    "text": "Xã Tự Cường, huyện Tiên Lãng, thành phố Hải Phòng.",
+    "result": {
+      "province": "Hải Phòng",
+      "province_normalized": "Hải Phòng",
+      "district": "Tiên Lãng",
+      "district_normalized": "Tiên Lãng",
+      "ward": "",
+      "ward_normalized": ""
+    }
+  },
+  {
+    "text": "Khóm Mỹ Tây Thị trấn Mỹ Thọ, Cao Lãnh, Đồng Tháp",
+    "result": {
+      "province": "Đồng Tháp",
+      "province_normalized": "Đồng Tháp",
+      "district": "",
+      "district_normalized": "",
+      "ward": "Mỹ Thọ",
+      "ward_normalized": "Mỹ Thọ"
+    }
+  },
+  {
+    "text": "Thôn Cựu Quán, Đức Thượng Hoài Đức, Hà Nội",
+    "result": {
+      "province": "Hà Nội",
+      "province_normalized": "Hà Nội",
+      "district": "",
+      "district_normalized": "",
+      "ward": "Đức Thượng",
+      "ward_normalized": "Đức Thượng"
+    }
+  },
+  {
+    "text": "Xã Thanh Giang, huyện Thanh Miện, tỉnh Hải Dương",
+    "result": {
+      "province": "Hải Dương",
+      "province_normalized": "Hải Dương",
+      "district": "",
+      "district_normalized": "",
+      "ward": "",
+      "ward_normalized": ""
+    }
+  },
+  {
+    "text": "Chuyên Mỹ Phú Xuyên, Hà Nội",
+    "result": {
+      "province": "Hà Nội",
+      "province_normalized": "Hà Nội",
+      "district": "",
+      "district_normalized": "",
+      "ward": "Chuyên Mỹ",
+      "ward_normalized": "Chuyên Mỹ"
+    }
+  },
+  {
+    "text": "Số 14 tổ 15 cụm 6, Phường Tứ Liên, Tây Hồ, Hà Nội.",
+    "result": {
+      "province": "Hà Nội",
+      "province_normalized": "Hà Nội",
+      "district": "",
+      "district_normalized": "",
+      "ward": "",
+      "ward_normalized": ""
+    }
+  },
+  {
+    "text": "Phúc Ninh Yên Sơn, Tuyên Quang",
+    "result": {
+      "province": "Tuyên Quang",
+      "province_normalized": "Tuyên Quang",
+      "district": "Yên Sơn",
+      "district_normalized": "Yên Sơn",
+      "ward": "Phúc Ninh",
+      "ward_normalized": "Phúc Ninh"
+    }
+  },
+  {
+    "text": "Yên Thuận Hàm Yên, Tuyên Quang",
+    "result": {
+      "province": "Tuyên Quang",
+      "province_normalized": "Tuyên Quang",
+      "district": "Hàm Yên",
+      "district_normalized": "Hàm Yên",
+      "ward": "Yên Thuận",
+      "ward_normalized": "Yên Thuận"
+    }
+  },
+  {
+    "text": "Khu 5, Thanh Vinh, thị xã Phú Thọ, Phú Thọ.",
+    "result": {
+      "province": "Phú Thọ",
+      "province_normalized": "Phú Thọ",
+      "district": "",
+      "district_normalized": "",
+      "ward": "",
+      "ward_normalized": ""
+    }
+  },
+  {
+    "text": "66/4 Nguyễn- Lương Bằng, BMT, ĐăkLăk",
+    "result": {
+      "province": "Đắk Lắk",
+      "province_normalized": "Đắk Lắk",
+      "district": "Buôn Ma Thuột",
+      "district_normalized": "Buôn Ma Thuột",
+      "ward": "",
+      "ward_normalized": ""
+    }
+  },
+  {
+    "text": "Vân Trường Tiền Hải, Thái Bình",
+    "result": {
+      "province": "Thái Bình",
+      "province_normalized": "Thái Bình",
+      "district": "Tiền Hải",
+      "district_normalized": "Tiền Hải",
+      "ward": "Vân Trường",
+      "ward_normalized": "Vân Trường"
+    }
+  },
+  {
+    "text": "TT. Tân Yên Hàm Yên, Tuyên Quang",
+    "result": {
+      "province": "Tuyên Quang",
+      "province_normalized": "Tuyên Quang",
+      "district": "Hàm Yên",
+      "district_normalized": "Hàm Yên",
+      "ward": "Tân Yên",
+      "ward_normalized": "Tân Yên"
+    }
+  },
+  {
+    "text": "P ,Trường sơn TX Sầm sơn,Thanh hóa",
+    "result": {
+      "province": "",
+      "province_normalized": "",
+      "district": "",
+      "district_normalized": "",
+      "ward": "Trường Sơn",
+      "ward_normalized": "Trường Sơn"
+    }
+  },
+  {
+    "text": "506/49/20E Lạc Long Quân, Phường 5, Quận 11, TP. Hồ Chí Minh",
+    "result": {
+      "province": "Hồ Chí Minh",
+      "province_normalized": "Hồ Chí Minh",
+      "district": 11,
+      "district_normalized": 11,
+      "ward": "",
+      "ward_normalized": ""
+    }
+  },
+  {
+    "text": "Tổ 17, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng.",
+    "result": {
+      "province": "Đà Nẵng",
+      "province_normalized": "Đà Nẵng",
+      "district": "Sơn Trà",
+      "district_normalized": "Sơn Trà",
+      "ward": "An Hải Đông",
+      "ward_normalized": "An Hải Đông"
+    }
+  },
+  {
+    "text": "402C E5 Thanh Xuân Bắc, Thanh Xuân, Hà Nội",
+    "result": {
+      "province": "Hà Nội",
+      "province_normalized": "Hà Nội",
+      "district": "",
+      "district_normalized": "",
+      "ward": "",
+      "ward_normalized": ""
+    }
+  },
+  {
+    "text": "Thôn Nghĩa Phú Hoằng Kim, Hoằng Hóa, Thanh Hóa",
+    "result": {
+      "province": "",
+      "province_normalized": "",
+      "district": "",
+      "district_normalized": "",
+      "ward": "Hoằng Kim",
+      "ward_normalized": "Hoằng Kim"
+    }
+  },
+  {
+    "text": "Xã Tế Tân Huyện Nông Cống, Thanh Hoá",
+    "result": {
+      "province": "",
+      "province_normalized": "",
+      "district": "",
+      "district_normalized": "",
+      "ward": "Tế Tân",
+      "ward_normalized": "Tế Tân"
+    }
+  },
+  {
+    "text": "KP Đồng Quý, TT. Thứ Ba, An Biên, Kiên Giang",
+    "result": {
+      "province": "Kiên Giang",
+      "province_normalized": "Kiên Giang",
+      "district": "",
+      "district_normalized": "",
+      "ward": "",
+      "ward_normalized": ""
+    }
+  },
+  {
+    "text": "Khu 5, Trạm Trôi, Hoài Đức Hà Nội",
+    "result": {
+      "province": "Hà Nội",
+      "province_normalized": "Hà Nội",
+      "district": "",
+      "district_normalized": "",
+      "ward": "Trạm Trôi",
+      "ward_normalized": "Trạm Trôi"
+    }
+  },
+  {
+    "text": "Chợ Cú 2, Xã An Nhơn Tây, Huyện Củ Chi, TP. Hồ Chí Minh",
+    "result": {
+      "province": "Hồ Chí Minh",
+      "province_normalized": "Hồ Chí Minh",
+      "district": "Củ Chi",
+      "district_normalized": "Củ Chi",
+      "ward": "An Nhơn Tây",
+      "ward_normalized": "An Nhơn Tây"
+    }
+  },
+  {
+    "text": "Bắc Sơn, Núi Sập, Thoại Sơn, An Giang",
+    "result": {
+      "province": "An Giang",
+      "province_normalized": "An Giang",
+      "district": "",
+      "district_normalized": "",
+      "ward": "Núi Sập",
+      "ward_normalized": "Núi Sập"
+    }
+  },
+  {
+    "text": "Thôn 1 Song Phương, Hoài Đức, TP. Hà Nội",
+    "result": {
+      "province": "Hà Nội",
+      "province_normalized": "Hà Nội",
+      "district": "",
+      "district_normalized": "",
+      "ward": "",
+      "ward_normalized": ""
+    }
+  },
+  {
+    "text": "Nguyễn Khuyến Thị trấn Vĩnh Trụ, Lý Nhân, Hà Nam",
+    "result": {
+      "province": "Hà Nam",
+      "province_normalized": "Hà Nam",
+      "district": "Lý Nhân",
+      "district_normalized": "Lý Nhân",
+      "ward": "Vĩnh Trụ",
+      "ward_normalized": "Vĩnh Trụ"
+    }
+  },
+  {
+    "text": "Xã Bình An huyện Thăng Bình, tỉnh Quảng Nam",
+    "result": {
+      "province": "Quảng Nam",
+      "province_normalized": "Quảng Nam",
+      "district": "Thăng Bình",
+      "district_normalized": "Thăng Bình",
+      "ward": "Bình An",
+      "ward_normalized": "Bình An"
+    }
+  },
+  {
+    "text": "Khu 1, P. Quảng Yên Quảng Yên, Quảng Ninh",
+    "result": {
+      "province": "",
+      "province_normalized": "",
+      "district": "Quảng Yên",
+      "district_normalized": "Quảng Yên",
+      "ward": "Quảng Yên",
+      "ward_normalized": "Quảng Yên"
+    }
+  },
+  {
+    "text": "Long Bình, An Hải, Ninh Phước, Ninh Thuận",
+    "result": {
+      "province": "Ninh Thuận",
+      "province_normalized": "Ninh Thuận",
+      "district": "",
+      "district_normalized": "",
+      "ward": "An Hải",
+      "ward_normalized": "An Hải"
+    }
+  },
+  {
+    "text": "An Lac Định An, Lấp Vò, Đồng Tháp",
+    "result": {
+      "province": "Đồng Tháp",
+      "province_normalized": "Đồng Tháp",
+      "district": "Lấp Vò",
+      "district_normalized": "Lấp Vò",
+      "ward": "Định An",
+      "ward_normalized": "Định An"
+    }
+  },
+  {
+    "text": "Thôn Én 2 Khánh Yên Trung, Văn Bàn, Lào Cai",
+    "result": {
+      "province": "Lào Cai",
+      "province_normalized": "Lào Cai",
+      "district": "Văn Bàn",
+      "district_normalized": "Văn Bàn",
+      "ward": "Khánh Yên Trung",
+      "ward_normalized": "Khánh Yên Trung"
+    }
+  },
+  {
+    "text": "B78/50 Tôn Thất Thuyết, P16, Q4, TP. Hồ Chí Minh.",
+    "result": {
+      "province": "Hồ Chí Minh",
+      "province_normalized": "Hồ Chí Minh",
+      "district": 4,
+      "district_normalized": 4,
+      "ward": 16,
+      "ward_normalized": 16
+    }
+  },
+  {
+    "text": "Tường Ngãi Nhơn Bình,Trà Ôn, Vĩnh Long",
+    "result": {
+      "province": "Vĩnh Long",
+      "province_normalized": "Vĩnh Long",
+      "district": "",
+      "district_normalized": "",
+      "ward": "Nhơn Bình",
+      "ward_normalized": "Nhơn Bình"
+    }
+  }
+]
